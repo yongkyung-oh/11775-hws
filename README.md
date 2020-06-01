@@ -5,6 +5,7 @@ Repository for 11775 SG Large-Scale Multimedia Analysis (Spring 2020) - Carnegie
 Course Website(https://baljit-cmu.github.io/11775.github.io/)
 
 High-Potential Individuals Global Training Program supported by IITP Korea.
+
 https://www.lti.cs.cmu.edu/iitp-executive-education-course-spring-2020
 
 
