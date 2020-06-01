@@ -1,12 +1,3 @@
-# 11775-hws
+# Large-Scale Multimedia Analysis
 
-Initial Steps: 
-```
-git clone https://github.com/11775website/11775-hws
-
-cd /home/ubuntu
-mkdir videos
-sh run_download_video.sh all_video.lst ./videos
-mkdir asrs
-sh run_download_asr.sh all_asr.lst ./asrs
-```
+Repository for 11775 SG Large-Scale Multimedia Analysis (Spring 2020) - Carnegie Mellon University 
