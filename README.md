@@ -8,8 +8,8 @@ Course Website(https://baljit-cmu.github.io/11775.github.io/)
 
 ![pipeline](pipeline.png)
 
-## HW1 (https://github.com/yongkyung-oh/CMU-Large_Scale_Multimedia_Analysis/tree/master/hw1_code)
+## ![HW1](https://github.com/yongkyung-oh/CMU-Large_Scale_Multimedia_Analysis/tree/master/hw1_code)
 The task of homework 1 is to perform multimedia event detection (MED) with audio features. Main tasks are extract MFCC and ASRs features from video file and develop model for multiple events. For the MFCC, Kmeans clustering is used to define features. In the ASRs, customized vocabulary dictionary using NLTK is used for features. SVM classifier is developed for the baseline and customized classification approach is suggested.
 
-## HW2 (https://github.com/yongkyung-oh/CMU-Large_Scale_Multimedia_Analysis/tree/master/hw2_code)
+## ![HW2](https://github.com/yongkyung-oh/CMU-Large_Scale_Multimedia_Analysis/tree/master/hw2_code)
 The task of homework 2 is to perform multimedia event detection (MED) with video features. Main tasks are extract SURF and CNN features from video file and develop model for multiple events. For the SURF and CNN, Kmeans clustering is used to define and represent features. in CNN, Vector of Locally Aggregated Descriptors (VLAD) Encoding technique is implemented to extract additional features. Also, CNN features are used to classifier without representation step. SVM classifier and LGBM are developed for the baseline and customized classification approach is suggested.
